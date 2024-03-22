@@ -5,8 +5,8 @@
 Fire magic is one of the basic [[Magic/Types/Elemental Magic\|Elemental Magic]] types.
 
 ### Motifs
-- [[Magic/Types/Fire Magic/Motifs/Burn Fire\|Burn Fire]]
 - [[Magic/Types/Fire Magic/Motifs/Flash Fire\|Flash Fire]]
+- [[Magic/Types/Fire Magic/Motifs/Burn Fire\|Burn Fire]]
 
 { .block-language-dataview}
 ### List of Fire Magic Users
