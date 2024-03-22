@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-vackster/"}
+{"dg-publish":true,"permalink":"/welcome-to-vackster/","tags":["gardenEntry"]}
 ---
 
 Have a look around.
