@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/vel-the-aspect-of-passion/"}
+{"dg-publish":true,"permalink":"/characters/vel-the-aspect-of-passion/","tags":["character"]}
 ---
 
 She's a people-pleaser. She puts everything she has into everything she does, and she often forgets to deal with her won issues
