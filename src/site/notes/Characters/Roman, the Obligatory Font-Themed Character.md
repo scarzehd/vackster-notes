@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/roman-the-obligatory-font-themed-character/"}
+{"dg-publish":true,"permalink":"/characters/roman-the-obligatory-font-themed-character/","tags":["character"]}
 ---
 
 
