@@ -17,10 +17,10 @@ Keep in mind that this site only updates every 5 minutes. Be patient.
 
 # Characters
 - [[Game Ideas/SCARS/Rune\|Rune]]
-- [[Characters/Vel, the Aspect of Passion\|Vel, the Aspect of Passion]]
 - [[Characters/Soul Guide\|Soul Guide]]
 - [[Characters/Roman, the Obligatory Font-Themed Character\|Roman, the Obligatory Font-Themed Character]]
-- [[Characters/Kenny Ice\|Kenny Ice]]
 - [[Characters/Ezra Flamestriker\|Ezra Flamestriker]]
+- [[Characters/Kenny Ice\|Kenny Ice]]
+- [[Characters/Vel, the Aspect of Passion\|Vel, the Aspect of Passion]]
 
 { .block-language-dataview}
