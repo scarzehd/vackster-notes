@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kenny-ice/","tags":["character/mainCharacter","magic/tech/scrap"]}
+{"dg-publish":true,"permalink":"/characters/kenny-ice/","tags":["character/mainCharacter","magic/tech/scrap","character/aspect"]}
 ---
 
 #### The Lonely Inventor
