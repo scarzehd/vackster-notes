@@ -8,6 +8,7 @@ Anything that brain of yours can think of can be found.
 Keep in mind that this site only updates every 5 minutes. Be patient.
 
 # Magic Types
+- [[Magic/Types/Ice Magic/Ice Magic\|Ice Magic]]
 - [[Magic/Types/Tech Magic/Tech Magic\|Tech Magic]]
 - [[Magic/Types/Fire Magic/Fire Magic\|Fire Magic]]
 - [[Magic/Types/Elemental Magic\|Elemental Magic]]
@@ -17,10 +18,10 @@ Keep in mind that this site only updates every 5 minutes. Be patient.
 
 # Characters
 - [[Game Ideas/SCARS/Rune\|Rune]]
+- [[Characters/Vel, the Aspect of Passion\|Vel, the Aspect of Passion]]
 - [[Characters/Soul Guide\|Soul Guide]]
 - [[Characters/Roman, the Obligatory Font-Themed Character\|Roman, the Obligatory Font-Themed Character]]
-- [[Characters/Ezra Flamestriker\|Ezra Flamestriker]]
 - [[Characters/Kenny Ice\|Kenny Ice]]
-- [[Characters/Vel, the Aspect of Passion\|Vel, the Aspect of Passion]]
+- [[Characters/Ezra Flamestriker\|Ezra Flamestriker]]
 
 { .block-language-dataview}
