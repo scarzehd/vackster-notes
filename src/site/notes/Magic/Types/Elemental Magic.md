@@ -3,6 +3,7 @@
 ---
 
 ### List of Elemental Magics
+- [[Magic/Types/Ice Magic/Ice Magic\|Ice Magic]]
 - [[Magic/Types/Fire Magic/Fire Magic\|Fire Magic]]
 
 { .block-language-dataview}
